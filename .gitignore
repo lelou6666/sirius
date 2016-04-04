@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *~
 
 _site/
@@ -43,3 +44,26 @@ build/
 
 # unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
 .rvmrc
+=======
+.swp
+.cache
+.classpath
+.project
+.settings/
+.springBeans
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+doc/sirius.pdf
+doc/sirius.aux
+doc/sirius.log
+atlassian-ide-plugin.xml
+.clover/
+.DS_Store
+*~
+.pydevproject
+*.pyc
+*.dvi
+>>>>>>> refs/remotes/Comcast/master
